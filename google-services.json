@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463806112093",
+    "project_id": "rosemaryhospital",
+    "storage_bucket": "rosemaryhospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463806112093:android:f9828c8a48d98e42c908b4",
+        "android_client_info": {
+          "package_name": "com.example.project602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463806112093-snk1msidoautt1bec08aa9pgc915idus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOQ2fR316bT1lisIaDwYl-XkqmtH4pA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463806112093-snk1msidoautt1bec08aa9pgc915idus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
